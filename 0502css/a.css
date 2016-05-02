@@ -1,0 +1,11 @@
+
+/*p:first-line{color:skyblue;}*/
+p:first-letter{color:skyblue;}
+
+p:before{
+  content:"saisyo"
+}
+
+p:after{
+  content:"owari"
+}
